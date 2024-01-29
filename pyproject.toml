@@ -15,7 +15,7 @@ precisely = "^0.1.9"
 
 [tool.poetry.dev-dependencies]
 jupyter = "1.0.0"
-black = "24.1.0"
+black = "24.1.1"
 pylint = "3.0.3"
 
 [build-system]
