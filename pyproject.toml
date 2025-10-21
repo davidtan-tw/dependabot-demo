@@ -9,7 +9,7 @@ pandas = "2.3.3"
 scikit-learn = "1.6.1"
 fastapi = "0.119.1"
 pydantic = "2.12.3"
-uvicorn = "0.37.0"
+uvicorn = "0.38.0"
 python = "^3.9"
 precisely = "^0.1.9"
 
